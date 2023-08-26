@@ -1,3 +1,3 @@
 # paquetes instalados
 
-`npm i axios`
+`npm i axios bcryptjs jsonwebtoken nodemailer react-hot-toast mongoose`
